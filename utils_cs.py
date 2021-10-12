@@ -22,7 +22,7 @@ def Load_Dataset(filename, fold):
     embeddings = pickle.load(open(embeddings_path, 'rb'), encoding='utf-8')
     embeddings_n = pickle.load(open(embeddings_n_path, 'rb'), encoding='utf-8')
 
-    indeces_path = filename+"bert_embedding/indeces" # indices ???
+    indeces_path = filename+"bert_embedding/indeces" 
     indeces_n_path = filename + "network_embedding/indeces"
 
     categories_path = filename + "category_" + fold + "_norm"
