@@ -1,4 +1,4 @@
-The large-scale academic datasets are released on https://drive.google.com/drive/folders/1LdmmGA8-bIZ2507At9qcKVPextHMkniw?usp=sharing
+The large-scale academic datasets are released on https://drive.google.com/drive/folders/1LdmmGA8-bIZ2507At9qcKVPextHMkniw?usp=sharing, which can be used for academic research.
 
 $1 = dataset_name
 
